@@ -2,7 +2,7 @@
 */
 body{
 	font: 1em 'Do Hyeon', sans-serif;
-	text-transform: uppercase;
+	text-transform: none;
 }
 
 .nav{
@@ -42,7 +42,7 @@ body{
 	width: 200px;
 	height: 40px;
 	line-height: 40px;
-	background-color: rgb(47, 48, 80);
+	background-color: purple;
 	color: rgb(255, 255, 255);
 	margin: 1px;
 	padding-left: 15px;
@@ -53,7 +53,7 @@ body{
 }
 
 .link:hover{
-	background-color: rgb(66, 69, 117);
+	background-color: rgb(77, 11, 94);
 }
 
 .link{
